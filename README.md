@@ -10,6 +10,7 @@
 | [0086-partition-list](https://github.com/100baek-go/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/100baek-go/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/100baek-go/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/100baek-go/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/100baek-go/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/100baek-go/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -99,12 +101,14 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/100baek-go/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/100baek-go/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/100baek-go/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/100baek-go/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/100baek-go/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,4 +119,8 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/100baek-go/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
