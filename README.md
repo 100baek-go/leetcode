@@ -12,6 +12,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/100baek-go/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/100baek-go/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0090-subsets-ii](https://github.com/100baek-go/leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 ## String
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 ## Stack
 |  |
 | ------- |
@@ -138,8 +141,13 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
