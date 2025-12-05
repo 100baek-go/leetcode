@@ -25,4 +25,16 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/100baek-go/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/100baek-go/leetcode/tree/master/0086-partition-list) |
+## Math
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/100baek-go/leetcode/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/100baek-go/leetcode/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/100baek-go/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
