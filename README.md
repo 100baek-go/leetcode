@@ -67,6 +67,7 @@
 | [0130-surrounded-regions](https://github.com/100baek-go/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/100baek-go/leetcode/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/100baek-go/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
 | [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
@@ -78,6 +79,7 @@
 | [0093-restore-ip-addresses](https://github.com/100baek-go/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/100baek-go/leetcode/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/100baek-go/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
 | [0709-to-lower-case](https://github.com/100baek-go/leetcode/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
@@ -89,6 +91,7 @@
 | [0120-triangle](https://github.com/100baek-go/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/100baek-go/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/100baek-go/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
@@ -164,6 +167,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/100baek-go/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/100baek-go/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/100baek-go/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
 | [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
 ## Stack
@@ -203,4 +207,12 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/100baek-go/leetcode/tree/master/0133-clone-graph) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
