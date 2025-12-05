@@ -60,6 +60,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/100baek-go/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/100baek-go/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/100baek-go/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/100baek-go/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
 ## Stack
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/100baek-go/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/100baek-go/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
