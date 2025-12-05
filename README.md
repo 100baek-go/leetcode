@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/100baek-go/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/100baek-go/leetcode/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@
 | [0099-recover-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/100baek-go/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/100baek-go/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 | [0099-recover-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/100baek-go/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/100baek-go/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,4 +99,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/100baek-go/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/100baek-go/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
