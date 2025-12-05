@@ -48,6 +48,7 @@
 | [0093-restore-ip-addresses](https://github.com/100baek-go/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/100baek-go/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/100baek-go/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/100baek-go/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0091-decode-ways](https://github.com/100baek-go/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/100baek-go/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/100baek-go/leetcode/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/100baek-go/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0709-to-lower-case](https://github.com/100baek-go/leetcode/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
@@ -82,6 +84,7 @@
 | [0097-interleaving-string](https://github.com/100baek-go/leetcode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/100baek-go/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/100baek-go/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/100baek-go/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
