@@ -55,6 +55,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/100baek-go/leetcode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/100baek-go/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
 ## String
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [0099-recover-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
