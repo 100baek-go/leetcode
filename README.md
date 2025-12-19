@@ -97,6 +97,7 @@
 | [0709-to-lower-case](https://github.com/100baek-go/leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/100baek-go/leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/100baek-go/leetcode/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,4 +259,8 @@
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/100baek-go/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/100baek-go/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
