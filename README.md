@@ -96,6 +96,7 @@
 | [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
 | [0709-to-lower-case](https://github.com/100baek-go/leetcode/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/100baek-go/leetcode/tree/master/0771-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +192,7 @@
 | [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/100baek-go/leetcode/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
