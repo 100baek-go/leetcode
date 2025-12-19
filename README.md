@@ -134,6 +134,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/100baek-go/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/100baek-go/leetcode/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/100baek-go/leetcode/tree/master/0999-available-captures-for-rook) |
+| [1002-find-common-characters](https://github.com/100baek-go/leetcode/tree/master/1002-find-common-characters) |
 ## String
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/100baek-go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/100baek-go/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1002-find-common-characters](https://github.com/100baek-go/leetcode/tree/master/1002-find-common-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/100baek-go/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/100baek-go/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/100baek-go/leetcode/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/100baek-go/leetcode/tree/master/1002-find-common-characters) |
 ## Stack
 |  |
 | ------- |
