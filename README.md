@@ -40,6 +40,7 @@
 | [0086-partition-list](https://github.com/100baek-go/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/100baek-go/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/100baek-go/leetcode/tree/master/0143-reorder-list) |
+| [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/100baek-go/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/100baek-go/leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0804-unique-morse-code-words](https://github.com/100baek-go/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/100baek-go/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
