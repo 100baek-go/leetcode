@@ -105,6 +105,7 @@
 | [0860-lemonade-change](https://github.com/100baek-go/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/100baek-go/leetcode/tree/master/0888-fair-candy-swap) |
 ## String
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/100baek-go/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0888-fair-candy-swap](https://github.com/100baek-go/leetcode/tree/master/0888-fair-candy-swap) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/100baek-go/leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/100baek-go/leetcode/tree/master/0888-fair-candy-swap) |
 ## Stack
 |  |
 | ------- |
@@ -299,6 +302,7 @@
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/100baek-go/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/100baek-go/leetcode/tree/master/0888-fair-candy-swap) |
 ## String Matching
 |  |
 | ------- |
