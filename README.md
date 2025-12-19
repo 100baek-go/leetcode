@@ -47,6 +47,7 @@
 | [0096-unique-binary-search-trees](https://github.com/100baek-go/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0728-self-dividing-numbers](https://github.com/100baek-go/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/100baek-go/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/100baek-go/leetcode/tree/master/0812-largest-triangle-area) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0766-toeplitz-matrix](https://github.com/100baek-go/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/100baek-go/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/100baek-go/leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/100baek-go/leetcode/tree/master/0812-largest-triangle-area) |
 ## String
 |  |
 | ------- |
@@ -268,4 +270,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/100baek-go/leetcode/tree/master/0796-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/100baek-go/leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
