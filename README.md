@@ -152,6 +152,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/100baek-go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/100baek-go/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/100baek-go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/100baek-go/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0133-clone-graph](https://github.com/100baek-go/leetcode/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0872-leaf-similar-trees](https://github.com/100baek-go/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
