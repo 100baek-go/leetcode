@@ -127,6 +127,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/100baek-go/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/100baek-go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/100baek-go/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/100baek-go/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/100baek-go/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +172,7 @@
 | [0130-surrounded-regions](https://github.com/100baek-go/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/100baek-go/leetcode/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -180,6 +184,7 @@
 | [0130-surrounded-regions](https://github.com/100baek-go/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/100baek-go/leetcode/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Hash Table
 |  |
 | ------- |
