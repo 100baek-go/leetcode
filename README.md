@@ -48,6 +48,7 @@
 | [0905-sort-array-by-parity](https://github.com/100baek-go/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/100baek-go/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/100baek-go/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/100baek-go/leetcode/tree/master/0925-long-pressed-name) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [0859-buddy-strings](https://github.com/100baek-go/leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/100baek-go/leetcode/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/100baek-go/leetcode/tree/master/0925-long-pressed-name) |
 ## Dynamic Programming
 |  |
 | ------- |
