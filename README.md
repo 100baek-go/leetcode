@@ -41,6 +41,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/100baek-go/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/100baek-go/leetcode/tree/master/0143-reorder-list) |
 | [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0090-subsets-ii](https://github.com/100baek-go/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/100baek-go/leetcode/tree/master/0137-single-number-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/100baek-go/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0812-largest-triangle-area](https://github.com/100baek-go/leetcode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [0130-surrounded-regions](https://github.com/100baek-go/leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/100baek-go/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 ## Graph
 |  |
 | ------- |
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
