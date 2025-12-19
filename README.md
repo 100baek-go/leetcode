@@ -99,6 +99,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/100baek-go/leetcode/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
 ## String
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/100baek-go/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
 ## Graph
 |  |
 | ------- |
@@ -304,4 +306,5 @@
 | ------- |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
