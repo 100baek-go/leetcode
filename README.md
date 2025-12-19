@@ -1,4 +1,4 @@
-<img src="leetcode_problem.jpg">
+<img src="leetcode_p.png">
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
