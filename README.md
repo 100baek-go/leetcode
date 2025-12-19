@@ -45,6 +45,7 @@
 | ------- |
 | [0089-gray-code](https://github.com/100baek-go/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/100baek-go/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0728-self-dividing-numbers](https://github.com/100baek-go/leetcode/tree/master/0728-self-dividing-numbers) |
 ## Backtracking
 |  |
 | ------- |
