@@ -123,6 +123,7 @@
 | [0929-unique-email-addresses](https://github.com/100baek-go/leetcode/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/100baek-go/leetcode/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/100baek-go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0925-long-pressed-name](https://github.com/100baek-go/leetcode/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/100baek-go/leetcode/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/100baek-go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
