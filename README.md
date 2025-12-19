@@ -86,6 +86,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/100baek-go/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/100baek-go/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/100baek-go/leetcode/tree/master/0804-unique-morse-code-words) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/100baek-go/leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/100baek-go/leetcode/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/100baek-go/leetcode/tree/master/0804-unique-morse-code-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/100baek-go/leetcode/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/100baek-go/leetcode/tree/master/0804-unique-morse-code-words) |
 ## Stack
 |  |
 | ------- |
