@@ -119,6 +119,7 @@
 | [0908-smallest-range-i](https://github.com/100baek-go/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/100baek-go/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/100baek-go/leetcode/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/100baek-go/leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/100baek-go/leetcode/tree/master/0925-long-pressed-name) |
+| [0929-unique-email-addresses](https://github.com/100baek-go/leetcode/tree/master/0929-unique-email-addresses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -257,6 +259,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/100baek-go/leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/100baek-go/leetcode/tree/master/0929-unique-email-addresses) |
 ## Stack
 |  |
 | ------- |
