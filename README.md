@@ -82,6 +82,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/100baek-go/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/100baek-go/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/100baek-go/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0131-palindrome-partitioning](https://github.com/100baek-go/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
 | [0709-to-lower-case](https://github.com/100baek-go/leetcode/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/100baek-go/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
 ## Stack
 |  |
 | ------- |
