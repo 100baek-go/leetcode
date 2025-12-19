@@ -79,6 +79,7 @@
 | [0717-1-bit-and-2-bit-characters](https://github.com/100baek-go/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/100baek-go/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/100baek-go/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/100baek-go/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/100baek-go/leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/100baek-go/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Tree
 |  |
 | ------- |
