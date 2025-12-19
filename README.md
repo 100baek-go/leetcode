@@ -80,6 +80,7 @@
 | [0724-find-pivot-index](https://github.com/100baek-go/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/100baek-go/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/100baek-go/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/100baek-go/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/100baek-go/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/100baek-go/leetcode/tree/master/0139-word-break) |
+| [0746-min-cost-climbing-stairs](https://github.com/100baek-go/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
