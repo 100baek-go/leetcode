@@ -42,6 +42,7 @@
 | [0143-reorder-list](https://github.com/100baek-go/leetcode/tree/master/0143-reorder-list) |
 | [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/100baek-go/leetcode/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/100baek-go/leetcode/tree/master/0830-positions-of-large-groups) |
+| [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/100baek-go/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/100baek-go/leetcode/tree/master/0143-reorder-list) |
+| [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -296,4 +299,5 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
