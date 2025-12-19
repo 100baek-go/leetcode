@@ -273,10 +273,12 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/100baek-go/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/100baek-go/leetcode/tree/master/0706-design-hashmap) |
+| [0933-number-of-recent-calls](https://github.com/100baek-go/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/100baek-go/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/100baek-go/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Hash Function
 |  |
 | ------- |
@@ -357,4 +359,8 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/100baek-go/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
