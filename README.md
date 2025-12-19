@@ -81,6 +81,7 @@
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/100baek-go/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/100baek-go/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/100baek-go/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## String
 |  |
 | ------- |
@@ -239,4 +240,8 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/100baek-go/leetcode/tree/master/0724-find-pivot-index) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/100baek-go/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
