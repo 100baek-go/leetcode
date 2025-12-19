@@ -85,6 +85,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/100baek-go/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/100baek-go/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/100baek-go/leetcode/tree/master/0748-shortest-completing-word) |
+| [0766-toeplitz-matrix](https://github.com/100baek-go/leetcode/tree/master/0766-toeplitz-matrix) |
 ## String
 |  |
 | ------- |
@@ -225,6 +226,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/100baek-go/leetcode/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/100baek-go/leetcode/tree/master/0766-toeplitz-matrix) |
 ## Graph
 |  |
 | ------- |
