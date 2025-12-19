@@ -46,6 +46,7 @@
 | [0089-gray-code](https://github.com/100baek-go/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/100baek-go/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0728-self-dividing-numbers](https://github.com/100baek-go/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/100baek-go/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0089-gray-code](https://github.com/100baek-go/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/100baek-go/leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/100baek-go/leetcode/tree/master/0137-single-number-ii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/100baek-go/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Array
 |  |
 | ------- |
