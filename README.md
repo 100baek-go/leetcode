@@ -58,6 +58,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/100baek-go/leetcode/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0896-monotonic-array](https://github.com/100baek-go/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/100baek-go/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/100baek-go/leetcode/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## String
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0859-buddy-strings](https://github.com/100baek-go/leetcode/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/100baek-go/leetcode/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Stack
 |  |
 | ------- |
@@ -333,10 +336,15 @@
 | ------- |
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
