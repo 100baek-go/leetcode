@@ -49,6 +49,7 @@
 | [0917-reverse-only-letters](https://github.com/100baek-go/leetcode/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/100baek-go/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/100baek-go/leetcode/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/100baek-go/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/100baek-go/leetcode/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/100baek-go/leetcode/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
 ## String
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0917-reverse-only-letters](https://github.com/100baek-go/leetcode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/100baek-go/leetcode/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/100baek-go/leetcode/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/100baek-go/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/100baek-go/leetcode/tree/master/0134-gas-station) |
 | [0860-lemonade-change](https://github.com/100baek-go/leetcode/tree/master/0860-lemonade-change) |
+| [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
 ## Union Find
 |  |
 | ------- |
