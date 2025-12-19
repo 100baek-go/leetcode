@@ -57,6 +57,7 @@
 | [0836-rectangle-overlap](https://github.com/100baek-go/leetcode/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/100baek-go/leetcode/tree/master/0908-smallest-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/100baek-go/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/100baek-go/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/100baek-go/leetcode/tree/master/0908-smallest-range-i) |
 ## String
 |  |
 | ------- |
