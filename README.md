@@ -125,6 +125,7 @@
 | [0830-positions-of-large-groups](https://github.com/100baek-go/leetcode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/100baek-go/leetcode/tree/master/0859-buddy-strings) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0804-unique-morse-code-words](https://github.com/100baek-go/leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
 | [0859-buddy-strings](https://github.com/100baek-go/leetcode/tree/master/0859-buddy-strings) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/100baek-go/leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Simulation
 |  |
 | ------- |
