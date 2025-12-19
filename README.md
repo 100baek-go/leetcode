@@ -187,6 +187,7 @@
 | [0872-leaf-similar-trees](https://github.com/100baek-go/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/100baek-go/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/100baek-go/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/100baek-go/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0872-leaf-similar-trees](https://github.com/100baek-go/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/100baek-go/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/100baek-go/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/100baek-go/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0872-leaf-similar-trees](https://github.com/100baek-go/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/100baek-go/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/100baek-go/leetcode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/100baek-go/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 | [0133-clone-graph](https://github.com/100baek-go/leetcode/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/100baek-go/leetcode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/100baek-go/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0965-univalued-binary-tree](https://github.com/100baek-go/leetcode/tree/master/0965-univalued-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
