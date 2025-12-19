@@ -69,6 +69,7 @@
 | [0137-single-number-ii](https://github.com/100baek-go/leetcode/tree/master/0137-single-number-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/100baek-go/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/100baek-go/leetcode/tree/master/0868-binary-gap) |
 ## Array
 |  |
 | ------- |
