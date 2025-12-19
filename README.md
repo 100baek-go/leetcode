@@ -63,6 +63,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/100baek-go/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/100baek-go/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/100baek-go/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/100baek-go/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/100baek-go/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/100baek-go/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/100baek-go/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -310,6 +312,7 @@
 | [0134-gas-station](https://github.com/100baek-go/leetcode/tree/master/0134-gas-station) |
 | [0860-lemonade-change](https://github.com/100baek-go/leetcode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/100baek-go/leetcode/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/100baek-go/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Union Find
 |  |
 | ------- |
@@ -352,6 +355,7 @@
 | [0888-fair-candy-swap](https://github.com/100baek-go/leetcode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/100baek-go/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/100baek-go/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/100baek-go/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## String Matching
 |  |
 | ------- |
