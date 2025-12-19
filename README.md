@@ -110,6 +110,7 @@
 | [0819-most-common-word](https://github.com/100baek-go/leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/100baek-go/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/100baek-go/leetcode/tree/master/0824-goat-latin) |
+| [0830-positions-of-large-groups](https://github.com/100baek-go/leetcode/tree/master/0830-positions-of-large-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
