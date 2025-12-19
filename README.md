@@ -133,6 +133,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/100baek-go/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/100baek-go/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/100baek-go/leetcode/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/100baek-go/leetcode/tree/master/0999-available-captures-for-rook) |
 ## String
 |  |
 | ------- |
@@ -338,6 +339,7 @@
 | [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/100baek-go/leetcode/tree/master/0999-available-captures-for-rook) |
 ## Graph
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/100baek-go/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/100baek-go/leetcode/tree/master/0999-available-captures-for-rook) |
 ## Number Theory
 |  |
 | ------- |
