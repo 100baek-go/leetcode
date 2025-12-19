@@ -54,6 +54,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/100baek-go/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/100baek-go/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/100baek-go/leetcode/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/100baek-go/leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## String
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0766-toeplitz-matrix](https://github.com/100baek-go/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/100baek-go/leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/100baek-go/leetcode/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Graph
 |  |
 | ------- |
@@ -303,6 +306,7 @@
 | ------- |
 | [0812-largest-triangle-area](https://github.com/100baek-go/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/100baek-go/leetcode/tree/master/0836-rectangle-overlap) |
+| [0883-projection-area-of-3d-shapes](https://github.com/100baek-go/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Counting
 |  |
 | ------- |
